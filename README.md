@@ -2,8 +2,6 @@
 
 A modern, feature-rich Kanban board built with React and TypeScript, featuring a Pomodoro timer integration and dark mode support.
 
-![Kanban Board Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1000)
-
 ## Features
 
 ### 🎯 Core Kanban Functionality
@@ -86,35 +84,3 @@ A modern, feature-rich Kanban board built with React and TypeScript, featuring a
 - Local storage for persistence
 - TypeScript interfaces for type safety
 
-## Development
-
-### Prerequisites
-- Node.js 16+
-- npm or yarn
-
-### Installation
-```bash
-# Clone the repository
-git clone [repository-url]
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Building for Production
-```bash
-# Create production build
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
